@@ -1,6 +1,10 @@
 
 👋 Hi, I’m Priyanshu Mishra<br><br>🎓 B.Tech Computer Science Engineering student  <br>💻 Aspiring Software Engineer   <br>📊 Passionate about Web Development, and Problem Solving<br><br>🛠️ Tech Stack  <br>💡 C++ | JavaScript | Python  <br>⚛️ React | HTML | CSS  <br>🗄️ MySQL  <br>🔧 Git | GitHub | VS Code  <br><br>📚 Currently learning: DSA, Full-Stack Development,oops  <br>🤝 Open to internships, projects, and collaborations
 
+C++ | Data Structures & Algorithms (Learning)
+B.Tech CSE Student
+Solving DSA problems & building consistency 🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/priyanshu_mishra2801/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-mishra-237652295/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbLPZg%2FAKRQmaJi1DNjnjkQ%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/pm1695589/photo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Priyanshumishra4037@gmail.com) 
