@@ -1,3 +1,4 @@
+## About My Profile - 
 
 👋 Hi, I’m Priyanshu Mishra<br><br>🎓 B.Tech Computer Science Engineering student  <br>💻 Aspiring Software Engineer   <br>📊 Passionate about Web Development, and Problem Solving<br><br>🛠️ Tech Stack  <br>💡 C++ | JavaScript | Python  <br>⚛️ React | HTML | CSS  <br>🗄️ MySQL  <br>🔧 Git | GitHub | VS Code  <br><br>📚 Currently learning: DSA, Full-Stack Development,oops  <br>🤝 Open to internships, projects, and collaborations
 
