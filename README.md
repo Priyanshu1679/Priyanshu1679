@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Priyanshu Mishra
+<h1 align="center">Hi 👋, I'm Priyanshu Mishra</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | Learning DSA & Web Development</h3>
 
-🎓 **B.Tech Computer Science Engineering Student**
-💻 **Aspiring Software Engineer**
-📊 Interested in **Web Development & Problem Solving**
-🇮🇳 India
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+Data+Structures+Learner;Frontend+Web+Developer+(Learning);Building+Projects+%26+Solving+DSA;Consistent+Learner+%F0%9F%9A%80" />
+</p>
 
-📧 Email: [Priyanshumishra4037@gmail.com](mailto:Priyanshumishra4037@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/priyanshu-mishra-237652295
 
 ---
 
